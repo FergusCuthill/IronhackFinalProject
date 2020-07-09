@@ -1,0 +1,4 @@
+Gathering Steam Data in Python:
+https://nik-davis.github.io/posts/2019/steam-data-collection/
+
+Steam Dataset 17GB
